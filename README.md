@@ -2,7 +2,7 @@
 [![Header](https://github.com/melomansky/melomansky/blob/main/assets/header-github.jpg)](https://youtube.com/c/melomansky)
 ### Latest youtube videos:
 <!-- YOUTUBE:START -->
-- [#melomansky #counterstrike #xash3d cs 1.6 android | melomansky | news](https://www.youtube.com/watch?v=DlTnzw4j6yc)
+- [cs 1.6 mobile / android / pc /melomansky](https://www.youtube.com/watch?v=EEjOltoMwSw)
 - [СБОРКА от MELOMANSKY / ZXC СБОРКА CS 1.6 MOBILE](https://www.youtube.com/watch?v=DcYSVtlzj_A)
 - [ЛУЧШИЙ ЛАУНЧЕР КС 1.6 АНДРОИД | BEST LAUNCH CS 1.6 ANDROID | ILAUNCHER CS](https://www.youtube.com/watch?v=KbTq-WK2eBY)
 - [ТОП 5 ГРАФИК КС 1.6 АНДРОИД](https://www.youtube.com/watch?v=T6lu8L7Tiqs)
